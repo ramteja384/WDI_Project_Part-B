@@ -1,0 +1,67 @@
+Year,SH.DTH.IMRT.FE,SH.DTH.IMRT.MA,SP.POP.TOTL,Country Code,Country Name,Region,Income Group,Lending Type
+1995,128977,156140,115169930,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1996,122763,148938,117649932,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1997,117010,141484,120160564,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1998,111205,134253,122682815,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1999,105593,127226,125189651,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2000,100047,120473,127657854,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2001,94680,113871,130088702,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2002,89389,107611,132478086,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2003,84366,101499,134791603,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2004,79424,95671,136986432,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2005,74635,89985,139035505,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1995,326500,412910,1204855000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1996,303694,386394,1217550000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1997,284069,363276,1230075000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1998,266013,341675,1241935000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1999,248422,320593,1252735000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2000,230345,298854,1262645000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2001,212455,277145,1271850000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2002,194443,255337,1280400000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2003,177395,234641,1288400000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2004,161936,215366,1296075000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2005,147997,197965,1303720000,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1995,1001969,1131673,963922588,IND,India,South Asia,Lower middle income,IBRD
+1996,978396,1100253,982365243,IND,India,South Asia,Lower middle income,IBRD
+1997,955039,1066814,1000900030,IND,India,South Asia,Lower middle income,IBRD
+1998,929451,1033303,1019483581,IND,India,South Asia,Lower middle income,IBRD
+1999,898680,1003811,1038058156,IND,India,South Asia,Lower middle income,IBRD
+2000,874447,966577,1056575549,IND,India,South Asia,Lower middle income,IBRD
+2001,847991,930275,1075000085,IND,India,South Asia,Lower middle income,IBRD
+2002,822365,893182,1093317189,IND,India,South Asia,Lower middle income,IBRD
+2003,796155,857437,1111523144,IND,India,South Asia,Lower middle income,IBRD
+2004,763619,828217,1129623456,IND,India,South Asia,Lower middle income,IBRD
+2005,737234,792289,1147609927,IND,India,South Asia,Lower middle income,IBRD
+1995,246661,305717,107948335,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1996,249387,308859,110668794,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1997,251224,311096,113457663,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1998,251907,312672,116319759,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1999,252007,312971,119260063,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+2000,251722,312428,122283850,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+2001,250628,311846,125394046,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+2002,249160,310749,128596076,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+2003,247025,309682,131900631,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+2004,244701,308328,135320422,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+2005,242419,306471,138865016,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1995,203030,244967,123776839,PAK,Pakistan,South Asia,Lower middle income,Blend
+1996,199370,241902,127349290,PAK,Pakistan,South Asia,Lower middle income,Blend
+1997,195044,238535,131057431,PAK,Pakistan,South Asia,Lower middle income,Blend
+1998,190413,234758,134843233,PAK,Pakistan,South Asia,Lower middle income,Blend
+1999,185840,230911,138624621,PAK,Pakistan,South Asia,Lower middle income,Blend
+2000,181720,227279,142343578,PAK,Pakistan,South Asia,Lower middle income,Blend
+2001,177929,224122,145978402,PAK,Pakistan,South Asia,Lower middle income,Blend
+2002,174810,221220,149549700,PAK,Pakistan,South Asia,Lower middle income,Blend
+2003,172131,218800,153093373,PAK,Pakistan,South Asia,Lower middle income,Blend
+2004,169911,216863,156664697,PAK,Pakistan,South Asia,Lower middle income,Blend
+2005,168147,215364,160304008,PAK,Pakistan,South Asia,Lower middle income,Blend
+1995,13739,17608,266278000,USA,United States,North America,High income,Not classified
+1996,13313,17024,269394000,USA,United States,North America,High income,Not classified
+1997,12939,16561,272657000,USA,United States,North America,High income,Not classified
+1998,12732,16125,275854000,USA,United States,North America,High income,Not classified
+1999,12498,15887,279040000,USA,United States,North America,High income,Not classified
+2000,12347,15723,282162411,USA,United States,North America,High income,Not classified
+2001,12250,15654,284968955,USA,United States,North America,High income,Not classified
+2002,12200,15645,287625193,USA,United States,North America,High income,Not classified
+2003,12137,15702,290107933,USA,United States,North America,High income,Not classified
+2004,12167,15669,292805298,USA,United States,North America,High income,Not classified
+2005,12159,15611,295516599,USA,United States,North America,High income,Not classified
